@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: alfred-0.1.0-setup.exe
+    sha512: 36iofhuo4UFDVL44NoEcHPD4tqaQxxT/176XMYzspzRE4r0njQbWqdzDdUOVITImFMAQPyqtfCMOw7mGDlSEvw==
+    size: 114724352
+path: alfred-0.1.0-setup.exe
+sha512: 36iofhuo4UFDVL44NoEcHPD4tqaQxxT/176XMYzspzRE4r0njQbWqdzDdUOVITImFMAQPyqtfCMOw7mGDlSEvw==
+releaseDate: '2026-10-27T19:26:06.244Z'
