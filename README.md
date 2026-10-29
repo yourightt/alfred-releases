@@ -114,18 +114,6 @@ A prebuilt Windows installer already exists at `dist/alfred-0.1.0-setup.exe`.
 
 ---
 
-## What's coming / remaining work
-
-Tracked in `HANDOFF.md`:
-- Runtime validation for provider responses (currently `as` casts)
-- Better UX when a stored API key can't be decrypted
-- Keep `src/preload/index.d.ts` aligned with `src/preload/index.ts`
-- Composer textarea auto-shrink after clearing
-- Remaining `void`-wrapped promise rejections
-- ~10.7k Prettier CRLF warnings (cosmetic line-ending config)
-
----
-
 ## License
 
 See `LICENSE`.
